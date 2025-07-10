@@ -1,0 +1,7 @@
+{
+  "name": "hardhat",
+  "version": "1.0.0",
+  "description": "A Hardhat project",
+  "license": "MIT",
+  "packageManager": "yarn@4.6.0"
+}
