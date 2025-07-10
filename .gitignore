@@ -37,6 +37,11 @@ coverage/
 
 node_modules
 .env
+cache
+dist
+build
+artifacts
+
 
 # Hardhat files
 /cache
